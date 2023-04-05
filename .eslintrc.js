@@ -14,5 +14,7 @@ module.exports = {
         'react/jsx-filename-extension': ['off'],
         'import/no-extraneous-dependencies': ['off'],
         'global-require': ['off'],
+        'no-unused-vars': ['warn'],
+        'react/function-component-definition': ['off'],
     },
 };
