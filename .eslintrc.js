@@ -16,5 +16,6 @@ module.exports = {
         'global-require': ['off'],
         'no-unused-vars': ['warn'],
         'react/function-component-definition': ['off'],
+        'arrow-body-style': ['off'],
     },
 };
