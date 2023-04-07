@@ -17,5 +17,7 @@ module.exports = {
         'no-unused-vars': ['warn'],
         'react/function-component-definition': ['off'],
         'arrow-body-style': ['off'],
+        'react/jsx-no-constructed-context-values': ['off'],
+        'react/prop-types': ['off'],
     },
 };
