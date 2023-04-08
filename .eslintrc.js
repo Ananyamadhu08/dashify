@@ -19,5 +19,8 @@ module.exports = {
         'arrow-body-style': ['off'],
         'react/jsx-no-constructed-context-values': ['off'],
         'react/prop-types': ['off'],
+        'import/no-cycle': ['off'],
+        'jsx-a11y/no-static-element-interactions': ['off'],
+        'jsx-a11y/click-events-have-key-events': ['off'],
     },
 };
