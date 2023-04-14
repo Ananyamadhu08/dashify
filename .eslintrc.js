@@ -25,5 +25,8 @@ module.exports = {
         'no-template-curly-in-string': ['off'],
         'react/no-array-index-key': ['off'],
         'react/jsx-props-no-spreading': ['off'],
+        'react/destructuring-assignment': ['off'],
+        'no-param-reassign': ['off'],
+        'no-shadow': ['off'],
     },
 };
