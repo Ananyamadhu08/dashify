@@ -28,5 +28,6 @@ module.exports = {
         'react/destructuring-assignment': ['off'],
         'no-param-reassign': ['off'],
         'no-shadow': ['off'],
+        'jsx-a11y/label-has-associated-control': ['off'],
     },
 };
