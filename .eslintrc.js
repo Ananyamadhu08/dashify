@@ -29,5 +29,7 @@ module.exports = {
         'no-param-reassign': ['off'],
         'no-shadow': ['off'],
         'jsx-a11y/label-has-associated-control': ['off'],
+        'consistent-return': ['off'],
+        'no-sequences': ['off'],
     },
 };
