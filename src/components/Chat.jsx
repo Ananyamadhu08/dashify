@@ -16,7 +16,7 @@ const Chat = () => {
                     </p>
                     <button
                         type="button"
-                        className="text-white  text-xs rounded p-1 px-2 bg-orange"
+                        className="text-white text-xs rounded p-1 px-2 bg-orange"
                     >
                         5 New
                     </button>
@@ -47,7 +47,7 @@ const Chat = () => {
                             />
                         </div>
                         <div>
-                            <p className="font-semibold dark:text-gray-200 ">
+                            <p className="font-semibold dark:text-gray-200">
                                 {item.message}
                             </p>
                             <p className="text-gray-500 dark:text-gray-400 text-sm">
